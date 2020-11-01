@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shortcuts-cards/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/shortcuts-cards/static/js/main.f71687e9.chunk.js",
+    "main.js.map": "/shortcuts-cards/static/js/main.f71687e9.chunk.js.map",
+    "runtime-main.js": "/shortcuts-cards/static/js/runtime-main.60b9464b.js",
+    "runtime-main.js.map": "/shortcuts-cards/static/js/runtime-main.60b9464b.js.map",
+    "static/js/2.7b795aef.chunk.js": "/shortcuts-cards/static/js/2.7b795aef.chunk.js",
+    "static/js/2.7b795aef.chunk.js.map": "/shortcuts-cards/static/js/2.7b795aef.chunk.js.map",
+    "static/js/3.f7192744.chunk.js": "/shortcuts-cards/static/js/3.f7192744.chunk.js",
+    "static/js/3.f7192744.chunk.js.map": "/shortcuts-cards/static/js/3.f7192744.chunk.js.map",
+    "index.html": "/shortcuts-cards/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/shortcuts-cards/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7b795aef.chunk.js.LICENSE.txt": "/shortcuts-cards/static/js/2.7b795aef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b9464b.js",
+    "static/js/2.7b795aef.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f71687e9.chunk.js"
+  ]
+}
